@@ -12,3 +12,6 @@ In summary, I list out the paper in the table below. You can go to detail by cli
 | 1 | [Finding Task-Relevant Features for Few-Shot Learning by Category Traversal](http://openaccess.thecvf.com/content_CVPR_2019/html/Li_Finding_Task-Relevant_Features_for_Few-Shot_Learning_by_Category_Traversal_CVPR_2019_paper.html) | Go |
 | 2 |  |  |
 
+
+# reading queue
+http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Kervolutional_Neural_Networks_CVPR_2019_paper.pdf
